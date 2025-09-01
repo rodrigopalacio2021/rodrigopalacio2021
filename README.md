@@ -1,87 +1,46 @@
-Olá, seja bem-vindo(a)! 👋
+Olá, Mundo! 🌍 seja bem-vindo(a)! 👋
 💻 Apaixonado(a) por tecnologia em aprendizado constante
 
 Este perfil documenta minha jornada de aprendizado em tecnologia e programação. Sou entusiasta de tecnologia começando do absoluto zero, compartilhando aqui minha evolução, projetos de estudo e descobertas.
 
 🚀 Sobre Mim
-🔭 Atualmente explorando: Lógica de Programação e Python
+🔭 Atualmente explorando: Lógica de Programação.
 
-🌱 Aprendendo: Fundamentos de desenvolvimento web (HTML, CSS, JavaScript)
+Sou um entusiasta da tecnologia em constante aprendizado!
 
-👯 Procuro colaborar em: Projetos iniciantes e comunidades de aprendizado
+Minha Jornada
+Desde que me lembro, sempre fui fascinado por:
 
-🤔 Buscando ajuda com: Melhores práticas e recursos para iniciantes
+💻 Como os computadores funcionam
 
-💬 Pergunte-me sobre: Recursos para começar na programação
+🌐 A magia por trás da internet
 
-📫 Como me alcançar: rodrigobeat2012@hotmail.com
+📱 A evolução dos dispositivos móveis
 
-⚡ Curiosidade: [Sua curiosidade relacionada a tecnologia]
+🤖 Inteligência Artificial e seu potencial
 
-🛠️ Tecnologias e Ferramentas que Estou Explorando
-Área	Tecnologias
-Linguagens	Python, JavaScript (básico)
-Front-end	HTML, CSS
-Ferramentas	VS Code, GitHub, Git
-Plataformas	FreeCodeCamp, Coursera, YouTube tutorials
-📈 Meu Progresso de Aprendizado
-text
-Lógica de Programação   ██████████ (100%)
-HTML/CSS                █████████░ (90%)
-Python                  ████████░░ (80%)
-JavaScript              ██████░░░░ (60%)
-Git/GitHub              █████░░░░░ (50%)
-📂 Projetos em Andamento
-Aqui estão alguns dos projetos que estou desenvolvendo para praticar:
+🎮 Como os jogos são criados
 
-Meu Primeiro Site Pessoal - Um site simples usando HTML e CSS
+O que estou explorando
+Atualmente estou mergulhando no universo da programação, aprendendo:
 
-Calculadora em Python - Meu primeiro programa com interface
+Lógica de programação
 
-Lista de Tarefas - Aplicação web básica com JavaScript
+Conceitos básicos de desenvolvimento
 
-📖 Recursos que Estou Utilizando
-Cursos Online
-FreeCodeCamp
+Ferramentas e tecnologias essenciais
 
-CS50's Introduction to Computer Science
+Meu objetivo
+Quero transformar minha paixão por tecnologia em conhecimento prático e, quem sabe um dia, contribuir com projetos incríveis que façam a diferença!
 
-Python for Everybody
+Vamos conversar?
+Adoro trocar ideias sobre:
+- Novidades tecnológicas
+- Dicas para iniciantes
+- Projetos inspiradores
+- Futuro da tecnologia
 
-Livros
-"Automate the Boring Stuff with Python" - Al Sweigart
+Estou sempre aberto a aprender coisas novas e compartilhar essa jornada!
 
-"HTML and CSS: Design and Build Websites" - Jon Duckett
+⭐ "A tecnologia besta não é a que substitui o homem, mas a que o liberta para ser mais humano." - Adaptado de Ricardo Semler
 
-Comunidades
-Dev.to
-
-Stack Overflow
-
-[Comunidade local de tecnologia]
-
-🌱 Metas para 2024
-Completar meu primeiro curso de programação
-
-Contribuir para um projeto open source
-
-Desenvolver um portfólio com 5 projetos
-
-Participar de um hackathon
-
-Aprender os fundamentos de React
-
-📊 Estatísticas do GitHub
-https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical
-
-🤝 Vamos Conectar!
-Estou sempre aberto(a) a conversar com outros aprendizes e desenvolvedores experientes que possam oferecer orientação.
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-
-⭐️ Do seu-usuario
-
-"A jornada de mil milhas começa com um único passo." - Lao Tzu
